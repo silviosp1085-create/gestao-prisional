@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão Prisional",
+  "description": "Sistema web de uso interno para gestão de rotinas, movimentações e disciplina em uma unidade prisional.",
+  "requestFramePermissions": []
+}
